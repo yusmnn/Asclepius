@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#FFf4effc</color>
+    <color name="card_background">#FFe2daeb</color>
+    <color name="toolbar_background">#FFc9bae2</color>
+    <color name="button">#FFAD96D3</color>
+    <color name="button_text">#0096C7</color>
+    <color name="delete">#FF0000</color>
+</resources>

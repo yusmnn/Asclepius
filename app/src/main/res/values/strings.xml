@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+
+
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="no_text_recognized">No text recognized!</string>
+
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="tflitevision_is_not_initialized_yet">TfLiteVision is not initialized yet</string>
+
+    <string name="menu_1">Information</string>
+    <string name="menu_2">Data Riwayat</string>
+    <string name="information">Information</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="no_bookmark_message">You don\'t have a bookmark yet</string>
+    <string name="see_more">See more</string>
+    <string name="an_error">Terjadi kesalahan</string>
+    <string name="no_category_with_high_enough_score_found">No category with high enough score found.</string>
+    <string name="successfully_added_bookmark">Successfully added bookmark</string>
+    <string name="successfully_removed_bookmark">Successfully removed bookmark</string>
+</resources>
